@@ -1,0 +1,11 @@
+.day {
+  font-family: serif;
+  font-size: 17px;
+  text-align: center;
+}
+.day-current{
+  font-style: italic;
+}
+.day-weekend{
+  font-weight: bold;
+}
